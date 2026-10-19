@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Case PortCont">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152e"/>
+      <stop offset="0.55" stop-color="#0f2d6b"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.16" r="0.7">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#glow)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <text x="64" y="82" fill="#60a5fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">CASE · PRODUTO PRÓPRIO</text>
+  <text x="64" y="188" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-2.5">PortCont</text>
+  <text x="64" y="238" fill="#60a5fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600">Comparação inteligente de clientes</text>
+  <text x="64" y="304" fill="#dbeafe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Cruza bases em PDF, Excel e CSV com fuzzy matching,</text>
+  <text x="64" y="332" fill="#dbeafe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">revisão humana e relatórios técnicos.</text>
+  <g transform="translate(64 548)">
+    <rect width="94" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="47" y="24" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Next.js</text>
+    <rect x="106" width="126" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="169" y="24" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">TypeScript</text>
+    <rect x="244" width="104" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="296" y="24" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Prisma</text>
+    <rect x="360" width="132" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="426" y="24" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PostgreSQL</text>
+  </g>
+  <g transform="translate(870 130)">
+    <rect width="250" height="250" rx="62" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="125" y="158" text-anchor="middle" fill="#60a5fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="102" font-weight="800">PC</text>
+  </g>
+  <g fill="none" stroke="#60a5fa" stroke-width="4" stroke-linejoin="round">
+    <rect x="1000" y="462" width="72" height="90" rx="10" opacity="0.85"/>
+    <rect x="1032" y="444" width="72" height="90" rx="10" opacity="0.55"/>
+    <path d="M1018 492h36M1018 510h28M1018 528h22" opacity="0.9"/>
+  </g>
+</svg>
