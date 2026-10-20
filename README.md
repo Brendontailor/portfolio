@@ -15,13 +15,13 @@ Esta é uma vitrine selecionada de projetos que desenvolvi ou nos quais colabore
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="cases/sah-acai.md"><img src="assets/case-sah-acai.svg" width="100%" alt="Sah Açaí & Cia" /></a>
+      <a href="cases/sah-acai.md"><img src="assets/case-sah-acai.webp" width="100%" alt="Sah Açaí & Cia — copo de açaí com a marca da loja" /></a>
       <h3>Sah Açaí &amp; Cia</h3>
       <p>Sistema de pedidos pelo WhatsApp e painel financeiro para uma loja real.</p>
       <p><code>Cliente real</code> · <code>Food retail</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="cases/monky-food.md"><img src="assets/case-monky-food.svg" width="100%" alt="Monky Food" /></a>
+      <a href="cases/monky-food.md"><img src="assets/case-monky-food.webp" width="100%" alt="Monky Food — vitrine real da Sah Açaí & Cia" /></a>
       <h3>Monky Food</h3>
       <p>SaaS multi-tenant para lojas de comida, com a Sah Açaí como primeira operação.</p>
       <p><code>Produto próprio</code> · <code>SaaS</code></p>
@@ -29,13 +29,13 @@ Esta é uma vitrine selecionada de projetos que desenvolvi ou nos quais colabore
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="cases/monky-tech.md"><img src="assets/case-monky-tech.svg" width="100%" alt="Monky Tech" /></a>
+      <a href="cases/monky-tech.md"><img src="assets/case-monky-tech.webp" width="100%" alt="Monky Tech — tela de acesso do sistema de gestão" /></a>
       <h3>Monky Tech</h3>
       <p>Gestão para lojas de eletrônicos e capinhas: PDV, estoque, financeiro e auditoria.</p>
       <p><code>Produto próprio</code> · <code>SaaS</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="cases/routepilot.md"><img src="assets/case-routepilot.svg" width="100%" alt="RoutePilot" /></a>
+      <a href="cases/routepilot.md"><img src="assets/case-routepilot.webp" width="100%" alt="RoutePilot — tela de acesso do mapa operacional" /></a>
       <h3>RoutePilot</h3>
       <p>Mapa operacional e planejamento de rotas para equipes de visitas técnicas.</p>
       <p><code>Produto próprio</code> · <code>PWA</code></p>
@@ -43,13 +43,13 @@ Esta é uma vitrine selecionada de projetos que desenvolvi ou nos quais colabore
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="cases/portcont.md"><img src="assets/case-portcont.svg" width="100%" alt="PortCont" /></a>
+      <a href="cases/portcont.md"><img src="assets/case-portcont.webp" width="100%" alt="PortCont — tela de acesso da comparação de bases" /></a>
       <h3>PortCont</h3>
       <p>Comparação inteligente de bases de clientes em PDF, Excel e CSV.</p>
       <p><code>Produto próprio</code> · <code>Dados</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="cases/dropzone.md"><img src="assets/case-dropzone.svg" width="100%" alt="Dropzone" /></a>
+      <a href="cases/dropzone.md"><img src="assets/case-dropzone.webp" width="100%" alt="Dropzone — campanha real de streetwear" /></a>
       <h3>Dropzone</h3>
       <p>E-commerce de streetwear, em colaboração com Leonardo Rosler.</p>
       <p><code>Colaboração</code> · <code>E-commerce</code></p>
@@ -65,6 +65,7 @@ Esta é uma vitrine selecionada de projetos que desenvolvi ou nos quais colabore
 
 - **Sem código-fonte:** os repositórios dos produtos são privados.
 - **Sem dados reais:** capturas e descrições não expõem clientes, credenciais, bancos ou informações internas.
+- **Com imagens reais:** fotos dos produtos e capturas das interfaces, sem capas genéricas nem watermarks.
 - **Com autoria clara:** cada case informa o contexto, o que foi feito, a stack e o status.
 - **Com curadoria:** um case por produto ou frente relevante, sem repetir a mesma solução.
 

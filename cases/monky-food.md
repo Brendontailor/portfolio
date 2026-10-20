@@ -3,7 +3,13 @@
 **SaaS multi-tenant para lojas de comida**  
 `Produto próprio` · `SaaS` · `Em desenvolvimento` · 2026
 
-[<img src="../assets/case-monky-food.svg" alt="Monky Food — SaaS multi-tenant para food service" width="100%">](../assets/case-monky-food.svg)
+[<img src="../assets/case-monky-food.webp" alt="Monky Food — vitrine real da Sah Açaí & Cia" width="100%">](../assets/case-monky-food.webp)
+
+*Primeira operação real da plataforma: a vitrine da Sah Açaí & Cia, com catálogo, montagem de copo e checkout pelo WhatsApp.*
+
+<img src="../assets/sah-acai-admin.webp" alt="Monky Food — painel administrativo da primeira operação" width="100%">
+
+*Painel administrativo da primeira operação. Cada loja mantém sua própria identidade e seus dados isolados.*
 
 ## Contexto
 

@@ -3,7 +3,9 @@
 **SaaS de gestão para lojas de eletrônicos e capinhas**  
 `Produto próprio` · `SaaS` · `Em evolução` · 2026
 
-[<img src="../assets/case-monky-tech.svg" alt="Monky Tech — gestão para eletrônicos e capinhas" width="100%">](../assets/case-monky-tech.svg)
+[<img src="../assets/case-monky-tech.webp" alt="Monky Tech — tela de acesso do sistema de gestão" width="100%">](../assets/case-monky-tech.webp)
+
+*Captura da interface real de acesso. A identidade visual está em transição de Orakyn para Monky Tech; o deploy legado ainda pode exibir o nome anterior.*
 
 ## Contexto
 

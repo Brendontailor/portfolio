@@ -3,13 +3,15 @@
 **Comparação inteligente de bases de clientes**  
 `Produto próprio` · `Dados` · `No ar` · 2026
 
-[<img src="../assets/case-portcont.svg" alt="PortCont — comparação inteligente de clientes" width="100%">](../assets/case-portcont.svg)
+[<img src="../assets/case-portcont.webp" alt="PortCont — tela de acesso da comparação de bases" width="100%">](../assets/case-portcont.webp)
+
+*Tela de acesso real do ambiente interno. As bases comparadas não são expostas.*
 
 **Acesso:** [portcont.vercel.app](https://portcont.vercel.app) — ambiente interno com login.
 
 <img src="../assets/portcont-hero.png" alt="PortCont — comparação de bases de clientes" width="100%">
 
-<img src="../assets/portcont.png" alt="PortCont — tela de acesso" width="100%">
+*Fluxo de comparação: PDF, Excel e CSV entram, passam pela normalização e saem classificados para revisão humana.*
 
 ## Contexto
 

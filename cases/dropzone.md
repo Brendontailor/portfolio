@@ -3,7 +3,18 @@
 **E-commerce de streetwear**  
 `Colaboração` · `E-commerce` · 2026
 
-[<img src="../assets/dropzone.webp" alt="Dropzone — campanha de streetwear" width="100%">](../assets/dropzone.webp)
+[<img src="../assets/case-dropzone.webp" alt="Dropzone — home real da loja de streetwear" width="100%">](../assets/case-dropzone.webp)
+
+*Home real da loja, com campanha, navegação e catálogo.*
+
+<table>
+  <tr>
+    <td width="50%"><img src="../assets/dropzone-look-01.webp" alt="Dropzone — look real da coleção" width="100%"></td>
+    <td width="50%"><img src="../assets/dropzone-look-03.webp" alt="Dropzone — look real da coleção" width="100%"></td>
+  </tr>
+</table>
+
+*Looks da coleção real da marca.*
 
 ## Contexto
 

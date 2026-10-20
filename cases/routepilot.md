@@ -3,11 +3,11 @@
 **Mapa operacional e planejamento de visitas técnicas**  
 `Produto próprio` · `PWA` · `No ar` · 2026
 
-[<img src="../assets/case-routepilot.svg" alt="RoutePilot — planejamento de visitas técnicas" width="100%">](../assets/case-routepilot.svg)
+[<img src="../assets/case-routepilot.webp" alt="RoutePilot — tela de acesso do mapa operacional" width="100%">](../assets/case-routepilot.webp)
+
+*Tela de acesso real do produto. Agenda e mapa são restritos a usuários autorizados.*
 
 **Acesso:** [routpilotes.vercel.app](https://routpilotes.vercel.app) — login Google restrito.
-
-<img src="../assets/routepilot.png" alt="RoutePilot — tela de acesso ao sistema" width="100%">
 
 ## Contexto
 

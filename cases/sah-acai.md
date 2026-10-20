@@ -3,7 +3,22 @@
 **Sistema de pedidos pelo WhatsApp e painel financeiro**  
 `Cliente real` · `Food retail` · `Full-stack` · 2026
 
-[<img src="../assets/sah-acai.png" alt="Sah Açaí & Cia — vitrine e identidade da loja" width="100%">](../assets/sah-acai.png)
+[<img src="../assets/case-sah-acai.webp" alt="Sah Açaí & Cia — copo de açaí com a marca da loja" width="100%">](../assets/case-sah-acai.webp)
+
+*Produto real da loja. A imagem faz parte do catálogo da Sah Açaí & Cia.*
+
+<details>
+<summary><strong>Ver o sistema por dentro</strong></summary>
+
+<img src="../assets/sah-acai-builder.webp" alt="Sah Açaí & Cia — montagem de copo no site" width="100%">
+
+*Montagem do copo: tamanho, complementos e revisão do pedido.*
+
+<img src="../assets/sah-acai-admin.webp" alt="Sah Açaí & Cia — tela de acesso do painel administrativo" width="100%">
+
+*Acesso ao painel administrativo da operação.*
+
+</details>
 
 ## Contexto
 
