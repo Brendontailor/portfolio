@@ -7,6 +7,10 @@
 
 **Acesso:** [portcont.vercel.app](https://portcont.vercel.app) — ambiente interno com login.
 
+<img src="../assets/portcont-hero.png" alt="PortCont — comparação de bases de clientes" width="100%">
+
+<img src="../assets/portcont.png" alt="PortCont — tela de acesso" width="100%">
+
 ## Contexto
 
 Comparar duas bases de clientes manualmente é lento e sujeito a erro. Nomes com variações de escrita, bases em formatos diferentes e registros duplicados fazem com que uma conciliação simples vire uma planilha enorme de conferência.

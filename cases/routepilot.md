@@ -7,6 +7,8 @@
 
 **Acesso:** [routpilotes.vercel.app](https://routpilotes.vercel.app) — login Google restrito.
 
+<img src="../assets/routepilot.png" alt="RoutePilot — tela de acesso ao sistema" width="100%">
+
 ## Contexto
 
 Equipes de campo precisam localizar um atendimento, entender a região, consultar referências e planejar a ordem das visitas. Em cidades com muitas localidades rurais e bairros com nomes parecidos, um mapa genérico não resolve a operação.
