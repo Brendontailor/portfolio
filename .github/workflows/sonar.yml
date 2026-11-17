@@ -1,0 +1,40 @@
+name: sonar
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: sonar-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sonar:
+    name: SonarQube
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3
+        with:
+          fetch-depth: 0
+
+
+      - name: SonarQube scan
+        uses: sonarsource/sonarcloud-github-action@e44258b109568baa0df60ed515909fc6c72cba92 # v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        with:
+          args: >
+            -Dsonar.projectKey=Brendontailor_portfolio
+            -Dsonar.sources=.
+            -Dsonar.sourceEncoding=UTF-8
+            -Dsonar.exclusions=**/node_modules/**,**/dist/**,**/build/**,**/target/**,**/vendor/**,**/.git/**,**/.venv/**,**/venv/**,**/__pycache__/**,**/coverage/**,**/*.min.js,**/*.min.css
+            -Dsonar.cpd.exclusions=**/node_modules/**,**/dist/**,**/build/**,**/target/**,**/vendor/**,**/.git/**,**/.venv/**,**/venv/**,**/__pycache__/**,**/coverage/**,**/*.min.js,**/*.min.css
+            -Dsonarqube.qualitygate.wait=true
